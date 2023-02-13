@@ -14,7 +14,7 @@ def test_nw_alignment():
     Unit test for NW alignment,
     using test_seq1.fa and test_seq2.fa,
     asserting that you have correctly filled out
-    the your 3 alignment matrices.
+    your 3 alignment matrices.
     BLOSUM62 matrix and a gap open penalty
     of -10 and a gap extension penalty of -1
     """
